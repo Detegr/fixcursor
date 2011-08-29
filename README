@@ -1,0 +1,13 @@
+Small program to keep the cursor inside screen in dual-view Linux systems.
+Designed for people who use slightly different window placement.
+
+Not perfect -- uses about 2% of CPU all the time. Designed for my 2xfullhd displays
+aligned like this (was too lazy to write code to fit for all alignments):
+
+ __________
+|          |
+| Screen 1 |
+|__________| __________
+			|          |
+			| Screen 2 |
+			|__________|
